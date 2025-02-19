@@ -26,14 +26,3 @@ Key improvements include:
 
 **LOS PINGUINOS**: Daniele Vozza, Francesco Tomasi, Zeno Peracchione, Lorenzo Galatea.
 
-## How to Run
-
-1. Install dependencies: `pip install -r requirements.txt`
-2. Train the model: `python train.py`
-3. Evaluate: `python evaluate.py`
-4. Predict: `python predict.py --input images/test_sample.png`
-
-## Acknowledgments
-
-Thanks to **Politecnico di Milano** for providing the dataset and computing resources.
-
